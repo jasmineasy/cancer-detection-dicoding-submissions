@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Import Photo From Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="prediction_title">PREDICTION RESULT</string>
+    <string name="confidence_score">Confidence Score</string>
+
+    <string name="instruction_title">CHOOSE YOUR IMAGE</string>
+    <string name="instruction_text">Select the sample image you would like to analyze for potential cancer detection.</string>
+</resources>
